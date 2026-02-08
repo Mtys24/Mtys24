@@ -13,7 +13,7 @@ Passionate about learning, building, and experimenting with creative projects �
 - **Version Control & Tools:** Git, GitHub
 
 ## 📂 Projects
-- [room-reservation-system]([https://github.com/Mtys24/Bot_basico1](https://github.com/Mtys24/room-reservation-system)) - Simple Python bot project
+- [room-reservation-system]([(https://github.com/Mtys24/room-reservation-system)) - Simple Python bot project
 - [To-Do App](https://github.com/Mtys24/To_Do) - Practicing web development and local storage, plus some creative ideas
 - [Mi primer repositorio](https://github.com/Mtys24/Mi-primer-repositorio) - My first GitHub project
 - [Bot Básico](https://github.com/Mtys24/Bot_basico1) - Simple Python bot project
