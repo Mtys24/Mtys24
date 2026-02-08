@@ -25,4 +25,4 @@ Passionate about learning, building, and experimenting with creative projects ðŸ
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mtys24&show_icons=true&theme=radical)
 
 ## ðŸŽ¯ Fun Stuff
-![Anime Landscape](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Anime Landscape](https://giphy.com/gifs/NKPtWXEw7UTt3UFReb)
