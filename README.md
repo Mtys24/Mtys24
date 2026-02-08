@@ -19,10 +19,10 @@ Passionate about learning, building, and experimenting with creative projects �
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/mat%C3%ADas-francisco-mar%C3%ADquez-manr%C3%ADquez-6133aa308/)
-- [Email](mailto:mtys24@gmail.com)
+- [Email](matiasmanríquez123456@gmail.com)
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mtys24&show_icons=true&theme=radical)
 
 ## 🎯 Fun Stuff
-![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Coding GIF]([https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://cl.pinterest.com/aneevenkaa/paisaje-anime/))
