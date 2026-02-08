@@ -25,4 +25,4 @@ Passionate about learning, building, and experimenting with creative projects ðŸ
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mtys24&show_icons=true&theme=radical)
 
 ## ðŸŽ¯ Fun Stuff
-![GIF](https://tenor.com/view/anime-fall-gif-23596426)
+![Anime Landscape](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
